@@ -1,0 +1,5 @@
+#Step 1: Make virtual environment and install all the dependencies in it.
+#Step 2: Navigate to the prediction.py file.
+#Step 3: Execute the following command streamlit run app.py to run the streamlit app.
+
+#model.pkl is the trained model.
